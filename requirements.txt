@@ -1,0 +1,4 @@
+jupyter-notebook
+tensorflow==1.15
+pandas
+numpy
