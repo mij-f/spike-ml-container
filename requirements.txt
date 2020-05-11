@@ -1,4 +1,4 @@
-jupyter-notebook
+jupyter
 tensorflow==1.15
 pandas
 numpy
